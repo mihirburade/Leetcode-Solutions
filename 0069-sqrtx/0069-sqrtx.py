@@ -1,19 +1,10 @@
 class Solution(object):
     def mySqrt(self, x):
-        if x < 2:
-            return x
+        if x == 0:
+            return 0
 
-        left = 1
-        right = x
+        i = 1
+        while i * i <= x:
+            i += 1
 
-        while left <= right:
-            mid = (left + right) // 2
-
-            if mid * mid == x:
-                return mid
-            elif mid * mid < x:
-                left = mid + 1
-            else:
-                right = mid - 1
-
-        return right
+        return i - 1
