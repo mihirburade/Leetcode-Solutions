@@ -14,7 +14,7 @@ class Solution(object):
         while current and current.next:
             if current.val==current.next.val:
                 current.next=current.next.next
-                # current=current.next
+
             elif current.val!=current.next.val:
                 current=current.next
         return head
