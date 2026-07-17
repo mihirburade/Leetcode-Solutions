@@ -32,6 +32,7 @@ providing solution for leet code problems
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0069-sqrtx) |
@@ -55,6 +56,7 @@ providing solution for leet code problems
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Stack
 |  |
@@ -72,4 +74,8 @@ providing solution for leet code problems
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
