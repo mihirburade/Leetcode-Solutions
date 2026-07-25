@@ -18,6 +18,7 @@ providing solution for leet code problems
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0067-add-binary) |
@@ -49,6 +50,7 @@ providing solution for leet code problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -89,4 +91,8 @@ providing solution for leet code problems
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
