@@ -8,6 +8,7 @@ providing solution for leet code problems
 | ------- |
 | [0027-remove-element](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Two Pointers
@@ -95,4 +96,12 @@ providing solution for leet code problems
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
