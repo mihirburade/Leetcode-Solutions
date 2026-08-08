@@ -108,5 +108,6 @@ providing solution for leet code problems
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0577-employee-bonus) |
+| [1661-average-time-of-process-per-machine](https://github.com/mihirburade/Leetcode-Solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1757-recyclable-and-low-fat-products](https://github.com/mihirburade/Leetcode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
