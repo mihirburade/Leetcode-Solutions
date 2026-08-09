@@ -112,4 +112,5 @@ providing solution for leet code problems
 | [1280-students-and-examinations](https://github.com/mihirburade/Leetcode-Solutions/tree/master/1280-students-and-examinations) |
 | [1661-average-time-of-process-per-machine](https://github.com/mihirburade/Leetcode-Solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1757-recyclable-and-low-fat-products](https://github.com/mihirburade/Leetcode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+| [1934-confirmation-rate](https://github.com/mihirburade/Leetcode-Solutions/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
