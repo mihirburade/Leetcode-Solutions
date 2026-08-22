@@ -15,6 +15,9 @@ class Solution(object):
             "9": "wxyz"
         }
         result=[]
+
+        if not digits:
+            return result
         def backtrack(index,current):
             
             if index==len(digits):
