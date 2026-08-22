@@ -19,6 +19,7 @@ providing solution for leet code problems
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
@@ -95,10 +96,12 @@ providing solution for leet code problems
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 ## Matrix
 |  |
