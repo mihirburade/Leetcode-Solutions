@@ -6,6 +6,7 @@ providing solution for leet code problems
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
@@ -14,6 +15,7 @@ providing solution for leet code problems
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String
@@ -120,4 +122,8 @@ providing solution for leet code problems
 | [1661-average-time-of-process-per-machine](https://github.com/mihirburade/Leetcode-Solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1757-recyclable-and-low-fat-products](https://github.com/mihirburade/Leetcode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/mihirburade/Leetcode-Solutions/tree/master/1934-confirmation-rate) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
