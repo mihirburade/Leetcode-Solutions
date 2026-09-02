@@ -16,6 +16,7 @@ providing solution for leet code problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String
@@ -66,6 +67,7 @@ providing solution for leet code problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Stack
 |  |
