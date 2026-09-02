@@ -21,6 +21,7 @@ providing solution for leet code problems
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -39,6 +40,7 @@ providing solution for leet code problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0069-sqrtx) |
@@ -103,6 +105,7 @@ providing solution for leet code problems
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 ## Matrix
