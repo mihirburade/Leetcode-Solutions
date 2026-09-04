@@ -42,6 +42,7 @@ providing solution for leet code problems
 | ------- |
 | [0002-add-two-numbers](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0069-sqrtx) |
@@ -49,6 +50,7 @@ providing solution for leet code problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0067-add-binary) |
 ## Simulation
 |  |
