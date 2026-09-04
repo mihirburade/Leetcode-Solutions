@@ -69,6 +69,7 @@ providing solution for leet code problems
 | [0002-add-two-numbers](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Stack
 |  |
@@ -93,6 +94,7 @@ providing solution for leet code problems
 | ------- |
 | [0002-add-two-numbers](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 ## Divide and Conquer
 |  |
 | ------- |
