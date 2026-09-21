@@ -13,6 +13,7 @@ providing solution for leet code problems
 | [0066-plus-one](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@ providing solution for leet code problems
 | [0035-search-insert-position](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Math
 |  |
 | ------- |
