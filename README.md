@@ -13,6 +13,7 @@ providing solution for leet code problems
 | [0066-plus-one](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0139-word-break](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -32,6 +33,7 @@ providing solution for leet code problems
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0139-word-break](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0139-word-break) |
 ## String Matching
 |  |
 | ------- |
@@ -69,10 +71,12 @@ providing solution for leet code problems
 | ------- |
 | [0022-generate-parentheses](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0139-word-break) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0139-word-break) |
 ## Linked List
 |  |
 | ------- |
@@ -124,6 +128,7 @@ providing solution for leet code problems
 | [0012-integer-to-roman](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0139-word-break](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0139-word-break) |
 ## Matrix
 |  |
 | ------- |
@@ -154,4 +159,12 @@ providing solution for leet code problems
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
