@@ -10,6 +10,7 @@ providing solution for leet code problems
 | [0027-remove-element](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0045-jump-game-ii](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -72,6 +73,7 @@ providing solution for leet code problems
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0140-word-break-ii) |
@@ -157,6 +159,7 @@ providing solution for leet code problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 ## Sliding Window
 |  |
 | ------- |
