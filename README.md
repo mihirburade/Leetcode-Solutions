@@ -57,6 +57,7 @@ providing solution for leet code problems
 | [0002-add-two-numbers](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0069-sqrtx) |
@@ -76,6 +77,7 @@ providing solution for leet code problems
 | [0022-generate-parentheses](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0140-word-break-ii) |
@@ -180,4 +182,8 @@ providing solution for leet code problems
 |  |
 | ------- |
 | [0139-word-break](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0139-word-break) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/mihirburade/Leetcode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
